@@ -18,5 +18,5 @@ A Raspberry Pi with Raspian, internet, SSH, with Node.js installed
 * Go to the RaspberryPi_BlinkLed directory
 * Enter `node webserver.js`
 * Enter `http://[Your RaspberryPi IP address:port]` on web browser
-![Image of raspberryPi terminal and webbrowser]
+![Image of raspberryPi terminal and webbrowser](https://github.com/ranabhat/RaspberryPi_BlinkLed/blob/master/RaspberryPiterminal_browser.jpg)
 ![Image of Led light lit after box is checked in browser](https://github.com/ranabhat/RaspberryPi_BlinkLed/blob/master/23131202_10215093952560941_1695526253_o.jpg)
